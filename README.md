@@ -4,7 +4,7 @@
 
 ###演示效果
 
-![效果](http://github.com/congyuandong/m2doc/raw/master/m2doc.jpg)
+![效果](https://raw.githubusercontent.com/congyuandong/m2doc/master/m2doc.png)
 
 ###使用说明
 
