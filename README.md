@@ -5,7 +5,7 @@
 
 ###演示效果
 
-![效果](http://www.congyuandong.cn/wp-content/uploads/2014/10/m2doc.jpg)
+![效果](http://github.com/congyuandong/m2doc/raw/master/m2doc.jpg)
 
 ###使用说明
 
